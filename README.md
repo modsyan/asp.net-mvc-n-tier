@@ -1,4 +1,3 @@
-# LarQ
 
-
-Movie website build with asp.net mvc n-tier application
+# asp.net-mvc-n-tier
+quick start Asp.net mvc n-tier template
